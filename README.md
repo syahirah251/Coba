@@ -1,8 +1,8 @@
 # PROJECT PWEB E
 Anggota Kelompok:
 
-Dhia Hayyu Syahirah 192410102008
-Candra Wulan Ana R 192410102009
+1. Dhia Hayyu Syahirah 192410102008
+2. Candra Wulan Ana R 192410102009
 
 Judul Project Website: GTGW ( Good Talk Good World )
 
